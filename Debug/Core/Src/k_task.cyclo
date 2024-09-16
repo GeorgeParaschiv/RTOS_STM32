@@ -1,0 +1,11 @@
+../Core/Src/k_task.c:29:6:osKernelInit	3
+../Core/Src/k_task.c:75:5:osCreateTask	9
+../Core/Src/k_task.c:148:5:osKernelStart	3
+../Core/Src/k_task.c:165:6:osScheduler	5
+../Core/Src/k_task.c:195:6:osYield	4
+../Core/Src/k_task.c:208:6:osSleep	1
+../Core/Src/k_task.c:214:6:osPeriodYield	1
+../Core/Src/k_task.c:218:5:osSetDeadline	3
+../Core/Src/k_task.c:238:5:osCreateDeadlineTask	1
+../Core/Src/k_task.c:243:5:osTaskInfo	4
+../Core/Src/k_task.c:265:5:osTaskExit	4

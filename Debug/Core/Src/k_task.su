@@ -1,0 +1,11 @@
+../Core/Src/k_task.c:29:6:osKernelInit	16	static,ignoring_inline_asm
+../Core/Src/k_task.c:75:5:osCreateTask	40	static,ignoring_inline_asm
+../Core/Src/k_task.c:148:5:osKernelStart	8	static,ignoring_inline_asm
+../Core/Src/k_task.c:165:6:osScheduler	16	static,ignoring_inline_asm
+../Core/Src/k_task.c:195:6:osYield	8	static,ignoring_inline_asm
+../Core/Src/k_task.c:208:6:osSleep	16	static
+../Core/Src/k_task.c:214:6:osPeriodYield	8	static
+../Core/Src/k_task.c:218:5:osSetDeadline	16	static,ignoring_inline_asm
+../Core/Src/k_task.c:238:5:osCreateDeadlineTask	24	static
+../Core/Src/k_task.c:243:5:osTaskInfo	16	static
+../Core/Src/k_task.c:265:5:osTaskExit	8	static
